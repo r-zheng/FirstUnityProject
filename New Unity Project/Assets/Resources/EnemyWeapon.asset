@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04a4b166d16da4b408bfc02c51c106a6, type: 3}
+  m_Name: EnemyWeapon
+  m_EditorClassIdentifier: 
+  equipmentName: EnemyWeapon
+  mods: []
+  stats: {fileID: 11400000, guid: a98da34977b0d6049a9f1c3a38083e06, type: 2}
+  isFriendly: 0
+  behavior: {fileID: 11400000, guid: 83658f8f54933894882043eaf965f76b, type: 2}
+  projectile: {fileID: 1821335490572086, guid: a50089055ab144c43a9259d19c65003b, type: 2}

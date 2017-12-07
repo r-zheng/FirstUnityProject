@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04a4b166d16da4b408bfc02c51c106a6, type: 3}
+  m_Name: SpreadShot
+  m_EditorClassIdentifier: 
+  equipmentName: SpreadShot
+  mods:
+  - {fileID: 11400000, guid: a4b444750ced29947b40c793980ba978, type: 2}
+  - {fileID: 11400000, guid: 6ead0b967d0effb469f951bb59812f28, type: 2}
+  - {fileID: 11400000, guid: 4bc89060127f8be4cb4628f73faa5665, type: 2}
+  - {fileID: 11400000, guid: d8b33a69df0e10c4a9bf81e5fe56f637, type: 2}
+  - {fileID: 11400000, guid: 164abcc9f37830f49bc664c86386a699, type: 2}
+  stats: {fileID: 11400000, guid: 9e2fd80457d195a4ca78a2c6980f9568, type: 2}
+  isFriendly: 1
+  behavior: {fileID: 11400000, guid: 371ed55b29758194ea85bb6dee44f013, type: 2}
+  projectile: {fileID: 1641302574736276, guid: 622ee30171afee142946fe7d2c09a4bf, type: 2}

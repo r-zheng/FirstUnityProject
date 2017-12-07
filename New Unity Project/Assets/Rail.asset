@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04a4b166d16da4b408bfc02c51c106a6, type: 3}
+  m_Name: Rail
+  m_EditorClassIdentifier: 
+  equipmentName: Rail
+  mods:
+  - {fileID: 11400000, guid: 07285d9296b8b9647a6980d0010389bf, type: 2}
+  - {fileID: 11400000, guid: 7b5dad18397bd0941b438527428d95ae, type: 2}
+  - {fileID: 11400000, guid: 4cd170de97b664445af28f841f52479c, type: 2}
+  - {fileID: 11400000, guid: e60fcda20c297234dbc4e0e09f652487, type: 2}
+  - {fileID: 11400000, guid: 7e99cb31a3002824b9adbff097db4911, type: 2}
+  stats: {fileID: 11400000, guid: 172ee03537a4cdb40bad9eb808cdd776, type: 2}
+  isFriendly: 1
+  behavior: {fileID: 11400000, guid: 39c1920918e7ddd429d28abf70cd97c1, type: 2}
+  projectile: {fileID: 1641302574736276, guid: 94781dba7c5cdff4dbc02544cf333856, type: 2}

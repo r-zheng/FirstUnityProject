@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04a4b166d16da4b408bfc02c51c106a6, type: 3}
+  m_Name: LaserGuidedMissile
+  m_EditorClassIdentifier: 
+  equipmentName: LaserGuidedMissile
+  mods:
+  - {fileID: 11400000, guid: c0c36459d16a15a49b09c205719d31fc, type: 2}
+  - {fileID: 11400000, guid: a2feb31f7d2e72c48b6ef3cdc64af079, type: 2}
+  - {fileID: 11400000, guid: cd09992b99e9c184a8c34f7db0b25938, type: 2}
+  - {fileID: 11400000, guid: 011b0fe271d4fcb4581309f869a7461f, type: 2}
+  - {fileID: 11400000, guid: defb80441b2c92643bb746be6ce47b68, type: 2}
+  stats: {fileID: 11400000, guid: da6163dc5363151448142f726dcfa0de, type: 2}
+  isFriendly: 1
+  behavior: {fileID: 11400000, guid: 39c1920918e7ddd429d28abf70cd97c1, type: 2}
+  projectile: {fileID: 1641302574736276, guid: 85a82030d438b5e4a92f620e6a287498, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04a4b166d16da4b408bfc02c51c106a6, type: 3}
+  m_Name: Blaster
+  m_EditorClassIdentifier: 
+  equipmentName: Blaster
+  mods:
+  - {fileID: 11400000, guid: cae7e4f4f30e616419f9f827c4bca5f4, type: 2}
+  - {fileID: 11400000, guid: 743e556be4a5edc4cabfc3c66a2dc11c, type: 2}
+  - {fileID: 11400000, guid: f3f5e5475d7d46c4abd20258b4b8b614, type: 2}
+  - {fileID: 11400000, guid: 46d595101f9c05947bd7d51790788e43, type: 2}
+  - {fileID: 11400000, guid: 09ca1a132894f18418320d5f3093e7f5, type: 2}
+  stats: {fileID: 11400000, guid: 31dbe575a1d11d141953f89485f63463, type: 2}
+  isFriendly: 1
+  behavior: {fileID: 11400000, guid: 39c1920918e7ddd429d28abf70cd97c1, type: 2}
+  projectile: {fileID: 1641302574736276, guid: 622ee30171afee142946fe7d2c09a4bf, type: 2}

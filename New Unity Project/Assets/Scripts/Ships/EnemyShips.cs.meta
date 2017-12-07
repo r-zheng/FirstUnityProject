@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 59af2ab4c1416184d9072408e8f74597
+timeCreated: 1512261279
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - thisShipObject: {instanceID: 0}
+  - armor: {fileID: 11400000, guid: 7d2fdfa8e1dd29b439576e80bac58132, type: 2}
+  - weapon: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
